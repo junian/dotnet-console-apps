@@ -14,7 +14,7 @@ This is a special repository to celebrate `dotnet run app.cs`, where you can jus
 
 You need [.NET 10 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) installed.
 
-Read example guide [here](https://www.junian.net/dev/dotnet-run-csharp-app/).
+Read example guide [here](https://www.junian.dev/tech/dotnet-run-csharp-app/).
 
 ## Content
 
