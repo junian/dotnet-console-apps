@@ -1,9 +1,14 @@
-﻿namespace StringHasher;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace StringHasher;
 
 class Program
 {
     static void Main(string[] args)
     {
+        // We put our code here
         var algorithms = new Dictionary<string, Func<string, string>>
         {
             {nameof(Hasher.MD5).ToLower(), Hasher.MD5},
