@@ -18,10 +18,12 @@ Read example guide [here](https://www.junian.dev/tech/dotnet-run-csharp-app/).
 
 ## Content
 
-- [Hello, World!](./src/hello-world/)
-- [Year 2038 Problem](./src/year-2038-problem/)
-- [ASP.NET Server Time](./src/aspdotnet-server-time/)
-- String Hash in C# (MD5 / SHA-256 / SHA-384 / SHA-512) ([Source Code](./src/string-hasher/) | [Guide](https://www.junian.dev/tech/csharp-string-hash/))
+| Project Name | Code | Post  |
+|--------------|------|-------|
+| Hello, World!                    | [Source Code](./src/hello-world/) | [Guide](https://www.junian.dev/tech/dotnet-run-csharp-app/)       |
+| Year 2038 Problem                | [Source Code](./src/year-2038-problem/) | [Guide](https://www.junian.dev/tech/dotnet-run-csharp-app/) |
+| ASP.NET Server Time              | [Source Code](./src/aspdotnet-server-time/) | [Guide](https://www.junian.dev/tech/dotnet-run-csharp-app/) |
+| String Hash in C# (MD5 / SHA-256 / SHA-384 / SHA-512) | [Source Code](./src/string-hasher/) | [Guide](https://www.junian.dev/tech/csharp-string-hash/) |
 ## Executable PATH
 
 If you're on macOS, Linux, or any Unix-like OS, you can set the `bin` folder in the path to directly execute the script.
